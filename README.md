@@ -15,7 +15,7 @@ Adventure Sports Inc. established in 2020, is an ecommerce sporting goods e-comm
 - Average Order Value (AOV) Trend: Evaluation of AOV over last 2 years and understanding what could affects the trends in AOV.
 -	Marketing Startegy : An analysis and recommendation on marketing strategy based on historic product sales performance, Coustomer demographics and seasonal trends.
 
-An interactive PowerBI dashboard can be downloaded here.
+An interactive PowerBI dashboard can be downloaded [here](https://app.powerbi.com/groups/me/reports/907bd2b1-d2b6-4593-a227-a40667a6de38/1b2bffec872e34c9894c?experience=power-bi).
 
 The SQL queries utilized to inspect and perform quality checks can be found here.
 
@@ -31,6 +31,7 @@ Adventure’s database structure as seen below consists of eight tables: Calande
 ### Overview Of Findings
 After seeing a short decline from June 2020 till November 2020 there is consistent increase in revenue YOY with seasonal trends in play. Key Performance Indicator have shown that order volume has steadily increase from August 2021 while average order value has declined YOY. This decline can be broadly attributed to introduction of small ticket items like accessories and clothing. The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 ![image](https://github.com/user-attachments/assets/5f22535e-f50a-4cc2-9521-158d8eb85aaa)
+ 
 
 ### Sales Trends
 -	Seasonal Revenue Spikes: There is a consistent trend of revenue increasing from November to December, followed by a sharp decline in January, reflecting customer spending behavior during the holiday season.
